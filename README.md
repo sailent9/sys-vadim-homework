@@ -98,8 +98,7 @@ vadim@vadim:~/git-homework$ git status
   (используйте «git restore --staged <файл>...», чтобы убрать из индекса)
         новый файл:    .gitignore
 
-
-
+```
 ### Задание 2
 
 
