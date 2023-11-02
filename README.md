@@ -97,3 +97,30 @@ vadim@vadim:~/git-homework$ git status
 Изменения, которые будут включены в коммит:
   (используйте «git restore --staged <файл>...», чтобы убрать из индекса)
         новый файл:    .gitignore
+
+
+
+### Задание 2
+
+
+
+
+Создал файл ./gitignore из меню VSCode
+
+![image](https://github.com/sailent9/sys-vadim-homework/assets/130309754/653f366b-653a-4d72-8e80-84d81867fb66)
+
+https://github.com/sailent9/sys-vadim-homework/edit/main/README.md
+
+
+
+
+ссылка на  Graph
+https://github.com/sailent9/sys-vadim-homework/network
+
+ссылка на все комиты
+https://github.com/netology-code/sys-pattern-homework/compare/main...sailent9:sys-vadim-homework:main
+
+
+
+
+
