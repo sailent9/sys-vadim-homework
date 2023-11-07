@@ -115,7 +115,7 @@ https://github.com/sailent9/sys-vadim-homework/edit/main/README.md
 
 ссылка на  Graph
 https://github.com/sailent9/sys-vadim-homework/network
-
+![Alt text](image.png)
 ссылка на все комиты
 https://github.com/netology-code/sys-pattern-homework/compare/main...sailent9:sys-vadim-homework:main
 
