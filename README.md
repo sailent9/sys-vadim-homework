@@ -1,4 +1,4 @@
-Домашнее задание к занятию «Git» Тихун вадим 
+Домашнее задание к занятию «Git» Тихун Вадим 
 
 Задание 1 
 https://github.com/sailent9/sys-vadim-homework/commit/2bce9975c22262a1353aa8f853e4329df841fe1e
