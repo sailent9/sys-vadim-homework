@@ -5,7 +5,7 @@ https://github.com/sailent9/sys-vadim-homework/commit/2bce9975c22262a1353aa8f853
 
 
 Задание-2 
-https://github.com/sailent9/sys-vadim-homework/blob/4ea802871eeafb188a12e46baf05f403c3b4e042/.gitignore
+https://github.com/sailent9/sys-vadim-homework/commit/f77177c1ad69798ae497c58879b0ec3672c07652
 
 
 Задание-3 
